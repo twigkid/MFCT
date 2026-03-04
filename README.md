@@ -1,6 +1,11 @@
-![MFCT Icon]([https://github.com/twigkid/MFCT/blob/main/msft.png?raw=true])
-# MFCT
-MFCT: Microsoft Familiy Control Terminator
+![MFCT Icon](msft.png)
+
+# MFCT 
+Microsoft Familiy Control Terminator\
+Terminate Microsoft's Family Services on login
 
 # DISCLAIMER
-I am not responsible for any damages or anything done with this program.
+**I am not responsible for any damages or any actions commited with MFCT.**\
+**This program adds a program called MFCT.exe to both startup programs and the windows exclusion list.**
+
+> 2026 twigkd
